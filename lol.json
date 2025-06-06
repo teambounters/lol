@@ -1,0 +1,9 @@
+{
+    "url": "javascript:prompt``",
+    "urls": [
+        {
+            "url": "javascript:prompt``",
+            "name": "Foo"
+        }
+    ]
+}
