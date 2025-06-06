@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><input name="constructor"><input name="__proto__"><input name="innerHTML" value="<img src=x onerror=prompt(1)>"></form>
+    [clickme](javascript:alert(document.domain))
     
   version: production
 basePath: /JSSResource/
