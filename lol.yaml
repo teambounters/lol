@@ -2,4 +2,6 @@ swagger: '2.0'
 info:
   title: XSS test
   description: |
-        	<img alt="<x" title="/><img src=x onerror=alert(1)>">
+    <option><style></option></select><img src=x onerror=alert(1)></style>
+	  <simg alt="<x" title="/><img src=x onerror=alert(1)>">
+	  <select multiple='multiple'><option><style></opion></select><img src=x onerror=alert(1)></style></select>
