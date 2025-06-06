@@ -3,5 +3,5 @@ info:
   title: XSS test
   description: |
     <option><style></option></select><img src=x onerror=alert(1)></style>
-	  <simg alt="<x" title="/><img src=x onerror=alert(1)>">
-	  <select multiple='multiple'><option><style></opion></select><img src=x onerror=alert(1)></style></select>
+    <simg alt="<x" title="/><img src=x onerror=alert(1)>">
+    <select multiple='multiple'><option><style></opion></select><img src=x onerror=alert(1)></style></select>
